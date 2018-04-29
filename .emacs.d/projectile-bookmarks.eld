@@ -1,1 +1,0 @@
-("/tmp/test/" "~/dotfiles/" "~/Documents/myProject/" "~/Dropbox/config-files/" "~/.config/i3/i3ass/" "~/.config/conky/4k_simple_system_zfs/" "~/.emacs.d/site-lisp/all-the-icons.el/" "~/.config/conky/philosophos/conky.conf/" "~/.config/conky/conky.conf/" "~/oh-my-zsh/themes/powerlevel9k/")
